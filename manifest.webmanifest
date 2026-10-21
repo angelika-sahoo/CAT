@@ -1,0 +1,17 @@
+{
+  "name": "Angelika CAT 2027 Earthy Planner V2",
+  "short_name": "CAT Planner",
+  "description": "Offline CAT 2027 study planner with daily curriculum, mock analytics, revision queue, flashcards and wellness tracking.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F4EFE8",
+  "theme_color": "#8E8077",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
